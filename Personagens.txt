@@ -2,3 +2,4 @@ macaco
 crocodilo
 esposa do crocodilo
 gato
+coala
